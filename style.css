@@ -1,0 +1,13 @@
+.blue{
+	color: blue;
+}
+
+
+#image-grid{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#image-grid img{
+	
+}
